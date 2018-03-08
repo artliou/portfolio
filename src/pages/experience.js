@@ -10,7 +10,7 @@ const Experience = (props) => (
 
     <a href="https://drive.google.com/open?id=1o7NmOovq5Luz6BcY4nbU6ZjVmX4vjSPr" type='application/pdf' target="_blank"
     >
-      <button>View Resume</button>
+      <button>View/Download Resume Here</button>
     </a>
 
   </div>

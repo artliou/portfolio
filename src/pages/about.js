@@ -5,7 +5,7 @@ const About = () => (
   <div>
     <h1>About</h1>
     <p>
-      Hi! I'm Arthur, an engineer and recent UC Berkeley grad. Currently working at a startup in Redwood City.
+      Hi! I'm Arthur, a software engineer, former tech recruiter, and recent UC Berkeley grad. Currently working at a startup in Redwood City.
     </p>
     <p>
 
