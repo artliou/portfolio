@@ -3,12 +3,9 @@ import Link from 'gatsby-link'
 
 const About = () => (
   <div>
-    <h1>About</h1>
+    <h1>About Me</h1>
     <p>
       Hi! I'm Arthur, a software engineer, former tech recruiter, and recent UC Berkeley grad. Currently working at a startup in Redwood City.
-    </p>
-    <p>
-
     </p>
 
     <p>
@@ -24,4 +21,4 @@ const About = () => (
   </div>
 )
 
-export default About
+export default About;
