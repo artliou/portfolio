@@ -7,6 +7,9 @@ import Header from '../components/Header';
 
 import './index.css';
 
+import Carousel from '../components/slideshow.js';
+import "./carousel.min.css"; //Need this, but CSS is off
+
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
@@ -17,6 +20,7 @@ const TemplateWrapper = ({ children }) => (
       ]}
     />
     <Header />
+
     <div
       style={{
         margin: '0 auto',
