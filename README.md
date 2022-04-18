@@ -9,6 +9,10 @@ Thanks for reading!
 - Node
 - Gatsby
 
+To install dependencies enter the following command in your terminal:
+
+- npm install
+
 ## Deployment
 
 Deployed via Heroku
